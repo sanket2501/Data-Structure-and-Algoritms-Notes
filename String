@@ -1,0 +1,7 @@
+-> Strings are defined as a stream of characters. Strings are used to represent text and are generally represented by enclosing text within quotes 
+-> There is an extra terminating character which is the Null character ('\0') used to indicate the termination of string which differs strings from normal character arrays.
+
+Function Of String
+   Function           Defination                                                                                              ` Declaration
+1) getline()        	This function is used to store a stream of characters as entered by the user in the object memory.        getline(cin, str);
+2)
